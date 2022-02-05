@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "myContactPrivateKey",
+    "MONGOURI": "mongodb+srv://dhulking:dhulking@cluster0.v8kik.mongodb.net/contact?retryWrites=true&w=majority"
+}

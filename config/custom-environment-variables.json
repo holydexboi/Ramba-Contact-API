@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "contact_jwtPrivateKey",
+    "MONGOURI": "contact_MongoURI"
+}
