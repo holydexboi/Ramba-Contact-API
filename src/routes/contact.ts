@@ -1,4 +1,4 @@
-import express, { Request, Response } from 'express';
+import express from 'express';
 import auth from '../middleware/auth';
 import { buildContact, Contact } from '../models/contact';
 
